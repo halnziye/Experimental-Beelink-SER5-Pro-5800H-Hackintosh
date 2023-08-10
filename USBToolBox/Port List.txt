@@ -1,0 +1,10 @@
+전면 포트 3 - Port 1 | USB 2.0 | Type C - with switch (guessed) (아래)
+전면 포트 3 - Port 2 | USB 2.0 | USB 3 Type A (guessed) (아래)
+
+전면 포트 C - Port 1 | USB 2.0 | Type C - with switch (guessed) (위)
+전면 포트 C - Port 4 | USB 2.0 | Type A (guessed) (아래)
+
+후면 포트 2 - Port 3 | USB 2.0 | Type A (guessed) (아래)
+후면 포트 3 - Port 2 | USB 2.0 | USB 3 Type A (guessed) (위)
+
+내장 포트 2 -  Port 3 | USB 2.0 | Type A (guessed) (위)
