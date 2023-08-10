@@ -4,7 +4,6 @@
 ![스크린샷 2023-08-10 오후 7 39 29](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/804e7d4d-bdb1-4440-b205-4636396d4a53)
 ![스크린샷 2023-08-10 오후 7 39 43](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/7f27b72a-d4a0-4a4f-ac85-16521f409c46)
 ![스크린샷 2023-08-10 오후 7 40 25](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/ea8ab070-5b63-42fa-a313-60de90ac7e5e)
-![스크린샷 2023-08-10 오후 7 55 17](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/76cbef99-b025-463d-8d79-4950921e4d75)
 
 ## System Specification
 | Name | Description |
@@ -29,7 +28,7 @@
 | ACPI Settings -> Enabled ACPI Auto Configuration | Enabled |
 
 ## Issues
-Serial number is blank. Add it yourself and use it.
+The Resources folder and serial number fields are empty. Please try adding it yourself.
 
 Graphics acceleration is unstable.
 
