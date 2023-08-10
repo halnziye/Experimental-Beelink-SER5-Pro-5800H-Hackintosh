@@ -1,4 +1,4 @@
-# SER5-Pro-5800H-Hackintosh
+# Beelink-SER5-Pro-5800H-Hackintosh
 ![스크린샷 2023-08-10 오후 7 37 57](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/08835b25-6f25-4bf3-a23d-4ea10368d67c)
 ![스크린샷 2023-08-10 오후 7 39 19](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/a2a7c20c-2722-4fcd-98bd-e983c7395100)
 ![스크린샷 2023-08-10 오후 7 39 29](https://github.com/yopoplay/Beelink-SER5-Pro-5800H-Hackintosh/assets/105102345/804e7d4d-bdb1-4440-b205-4636396d4a53)
