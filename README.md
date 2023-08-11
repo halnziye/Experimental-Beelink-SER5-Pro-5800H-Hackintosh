@@ -9,7 +9,7 @@
 | Name | Description |
 | - | - |
 | CPU | AMD Ryzen 7 5800H |
-| M/B |  |
+| M/B | FCH |
 | RAM | 32GB |
 | SSD | CORSAIR MP600 PRO NH 2TB |
 | GPU | AMD Radeon Graphics 3GB |
