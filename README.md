@@ -18,7 +18,7 @@
 ## Applied Version
 | Name | Description |
 | - | - |
-| BIOS |  |
+| BIOS | 5800H502 |
 | OC | 0.9.4 |
 | OS | macOS Ventura |
 
